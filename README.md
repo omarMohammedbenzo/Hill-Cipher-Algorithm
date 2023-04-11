@@ -17,7 +17,7 @@ It was invented by Lester S. Hill in 1929 and is based on linear algebra.
 * Html & CSS
 * JavaScript
 
-## UX & UI 
+## Screenshot
 
 ![Alphabetic page](https://user-images.githubusercontent.com/113354292/231138934-11a95b84-673e-4005-b287-0369911179b2.jpg)
 
